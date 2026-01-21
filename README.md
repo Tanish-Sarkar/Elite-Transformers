@@ -6,6 +6,10 @@ No tutorial hell. No black-box libraries. Pure implementation.
 
 Goal: Go from RNN/Attention base → full from-scratch Transformer → GPT-like generation → ready for LLMs.
 
+## Requirements for Starting
+* NLP basics
+* Pytorch fundamentations
+
 ---
 
 ## 20-Day Roadmap – My Journey
